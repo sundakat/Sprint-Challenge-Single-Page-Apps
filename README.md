@@ -29,6 +29,15 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 > Answer:
 
+No Full Page Reload Required!
+
+Client-side rendering avoids making unnecessary requests for a full page when only a portion of the page has changed.
+
+Because less data is processed, routing between views is generally faster.
+
+Smooth transitions and animations between views are easier to implement.
+
+
 ## Project Set Up
 
 Follow these steps to set up and work on your project:

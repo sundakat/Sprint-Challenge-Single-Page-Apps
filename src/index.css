@@ -38,3 +38,22 @@ main {
 header h1 {
   text-align: center;
 }
+
+.navLinks {
+  color: black;
+  text-decoration: none;
+}
+
+.navLinks:hover {
+  color: #a9d3e9;
+  text-decoration: underline;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+color: #a9d3e9;
+text-decoration: underline;
+}

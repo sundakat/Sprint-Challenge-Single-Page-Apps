@@ -12,8 +12,6 @@ const Nav = styled.nav`
   padding:30px;
   display:flex;
   justify-content:space-evenly;
-  text-declaration: none;
-  color: black;
   `;
 
 
